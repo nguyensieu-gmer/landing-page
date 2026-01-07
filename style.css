@@ -147,6 +147,7 @@ a{
 }
 
 .information .title{
+    font-family: var(--body-font);
     font-size: 48px;
     font-weight: 900px;
     margin: 0;
