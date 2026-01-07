@@ -101,13 +101,13 @@ a{
     gap: 40px;
 }
 
-.header_container .Description .content h1{
+.header_container .Description .content .title{
     font-size: 48px;
     font-weight: 900px;
     margin: 0;
 }
 
-.header_container .Description .content p{
+.header_container .Description .content .paragraph{
     font-size: 18px;
     margin: 20px 0;
     line-height: 1.6;
