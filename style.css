@@ -270,7 +270,7 @@ a{
 .member_container{
     font-family: var(--body-font);
     background-color: var(--color-background);
-    height: 200px;
+    height: 300px;
     display: flex;
 }
 
