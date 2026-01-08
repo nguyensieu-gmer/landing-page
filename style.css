@@ -315,3 +315,17 @@ a{
 .member_container .box .paragraph{
     margin: 10px 0;
 }
+
+.footer_container{
+    background-color: var(--color-text-main);
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    height: 50px;
+}
+
+.footer_container .copy{
+    margin: auto;
+    color: white;
+    font-family: var(--body-font);
+}
