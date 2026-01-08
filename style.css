@@ -231,3 +231,36 @@ a{
     background-color: var(--color-accent-hover);
     padding: 20px 80px;
 }
+
+/* about */
+
+.about_container{
+    background-color: var(--color-text-main);
+}
+
+.about_container .about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 600px;
+    height: 300px;
+}
+
+.about_container .about .content,
+.about_container .about .author{
+    font-family: var(--body-font);
+    color: white;
+}
+
+.about_container .about .content{
+    font-size: 48px;
+    font-style: italic;
+}
+
+.about_container .about .author{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: auto;
+}
